@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Pedro Caires! 👋
+I hold a Bachelor's degree in Computer Science from UNIFACS and I am currently working as a Junior Full Stack Developer. My career is highlighted by my experience with mission-critical systems in public institutions, where I have developed robust solutions using modern market technologies.
 
-<!--
-**pepemartins71/pepemartins71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Technologies & Tools
+Languages & Frameworks: C#, .NET, Java, Angular, JavaScript, and TypeScript.
 
-Here are some ideas to get you started:
+Backend: REST API development and business logic implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: Building dynamic interfaces with Angular and TypeScript.
+
+Data: SQL database manipulation and querying.
+
+DevOps & Version Control: Git, GitHub, and GitLab.
+
+💼 Professional Experience
+TCM-BA: Full Stack development focused on the .NET ecosystem, working with Agile methodologies (Scrum) and institutional system maintenance.
+
+TCE-BA: Worked on large-scale projects using Java for the backend and Angular for the frontend.
