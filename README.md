@@ -95,12 +95,12 @@ I'm a Full Stack Developer with hands-on experience building **mission-critical 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pepemartins71&show_icons=true&hide_border=true&count_private=true&title_color=0D4F5C&icon_color=33707D&text_color=808080&bg_color=00000000" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepemartins71&layout=compact&hide_border=true&langs_count=8&title_color=0D4F5C&text_color=808080&bg_color=00000000" alt="top langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pepemartins71&show_icons=true&hide_border=true&count_private=true&title_color=A8DADC&icon_color=A8DADC&text_color=FFFFFF&bg_color=0D4F5C" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepemartins71&layout=compact&hide_border=true&langs_count=8&title_color=A8DADC&text_color=FFFFFF&bg_color=0D4F5C" alt="top langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=pepemartins71&hide_border=true&ring=0D4F5C&fire=33707D&currStreakLabel=0D4F5C&background=00000000" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=pepemartins71&hide_border=true&ring=A8DADC&fire=A8DADC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A8DADC&sideLabels=FFFFFF&dates=FFFFFF&background=0D4F5C" alt="streak" />
 
 </div>
 
